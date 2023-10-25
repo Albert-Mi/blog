@@ -5,7 +5,7 @@ description: Welcome to my world!
 date: 2023-10-25 00:00:00+0000
 
 categories:
-    - cate1
+    - 建站点滴
 tags:
     - 建站点滴
 ---
